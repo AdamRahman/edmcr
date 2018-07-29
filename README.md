@@ -1,8 +1,7 @@
 # edmcr
-Euclidean distance (^2) matrix completion 
+An R package for Euclidean distance (^2) matrix completion (Adam Rahman and Wayne Oldford)
 
-Adam Rahman and Wayne Oldford 
-Implements the Euclidean distance matrix completion algorithms of 
+Implements the algorithms of 
 
 - Alfakih, Khandani, and Wolkowicz (1999) <doi:10.1023/A:1008655427845>, 
 - Trosset (2000) <doi:10.1023/A:1008722907820>, 
